@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="example">10 + 5 = ?</string>
+    <string name="button_response">Response</string>
+    <string name="incorrect_system_response">Sorry, the response is incorrect!</string>
+    <string name="hint_field">Input response:</string>
+    <string name="correct_system_response">Correct response!</string>
+</resources>

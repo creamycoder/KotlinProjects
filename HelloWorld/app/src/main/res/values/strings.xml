@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Привет, мир!</string>
+    <string name="hello_user">Привет, пользователь!</string>
+</resources>
