@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameScore</string>
+    <string name="team_2">Team 2</string>
+    <string name="team_1">Team 1</string>
+    <string name="team_score_1">0</string>
+    <string name="team_score_2">0</string>
+</resources>
